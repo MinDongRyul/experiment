@@ -1,5 +1,5 @@
 *.ipynb_checkpoints
 *.DS_Store
-
+*.pdf
 
 LLaMA2_from_scratch/__pycache__/
